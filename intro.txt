@@ -6,4 +6,4 @@ Major / program: Data Science & Analytics
 
 Favorite dataset or industry interest: Manufacturing Data Collection
 
-One reason I am studying analytics:
+One reason I am studying analytics: I would to incorporate data science into my current position in power analytics.
