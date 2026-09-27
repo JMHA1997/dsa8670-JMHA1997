@@ -73,3 +73,10 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+## Part 3 Prompts
+Version control matters in data analytics because if someone makes a change to a process and it's not recorded 
+then that could affect every single change that's made in the future along with the data outcomes from those analytical applications.
+Something that resonated with me was the section from the readings on keeping your repositories private. For some of the stuff we do at my
+current company, we use GitHub in order to use the AI component in VisualStudio, but we're required to keep all of our project private so that
+the information we build in them isn't visible to the public. However, we are able to share the respositories with certain people or groups in the company.
